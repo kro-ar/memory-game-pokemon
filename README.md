@@ -7,6 +7,6 @@ Start!!
 Game!!
 ![image](https://user-images.githubusercontent.com/56145905/176627767-d1a9b976-b157-4f5f-b4ae-f58e960d9f74.png)
  
-      also you have a BACK 
-      ![image](https://user-images.githubusercontent.com/56145905/176627867-cab59212-0d73-4a9f-8c27-4746d4e44b21.png)
+also you have a BACK 
+![image](https://user-images.githubusercontent.com/56145905/176627867-cab59212-0d73-4a9f-8c27-4746d4e44b21.png)
 
